@@ -1,6 +1,4 @@
 # CSCE546_Final
-
-##
 My flashcard Android App
 
 ### Video Link
